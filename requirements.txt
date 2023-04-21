@@ -1,0 +1,7 @@
+numpy
+regex
+pythainlp==4.0.0
+transformers==4.27.4
+googletrans==3.1.0a0
+sentence-transformers==2.2.2
+pickle
